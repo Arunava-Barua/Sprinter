@@ -1,16 +1,9 @@
-# Goggl - The Most Unique Search Engine in the World
+Hello there, Sprinter is a simple search engine that can query results for images, news and videos.
 
-![Goggl](https://i.ibb.co/yQdYhtq/image.png)
+It uses RapidApi to fetch data from google searches.
 
-## Introduction
-This is a code repository for the corresponding video tutorial. 
+Tailwind CSS is been used for the styling of the web app. 
 
-In this video, we will create a Google Clone app. We're going to use React and Goole Search API powered by https://rapidapi.com.
+This project sharpens basic and important concepts of react hooks and context. A good understanding of APIs and routing is essential for this mini-project.
 
-By the end of this video, you will become the master of working with APIs.
-
-Setup:
-- run ```npm i && npm start``` to start the development server
-
-## Stay up to date with new projects
-New major projects coming soon, subscribe to the mailing list to stay up to date https://javascriptmastery.eo.page/mailing-list.
+New features  will be added soon.
